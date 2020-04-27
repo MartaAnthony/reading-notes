@@ -1,7 +1,7 @@
 ## Code 201 Reading Notes
 *Notes from daily reading of Jon Duckett's books: "HTML & CSS" and "JavaScript & jQuery".*
 
-####Table of contents####
+##**Table of contents**##
 
 1. Structure  
 2. Extra Markup
