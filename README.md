@@ -3,7 +3,7 @@
 
 #### Table of contents
 
-1. Structure  
+1. [Structure](https://github.com/MartaAnthony/reading-notes/blob/master/class-01.md)  
 2. Extra Markup
 3. HTML5 Layout
 4. Process & Design
