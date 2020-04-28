@@ -3,20 +3,20 @@
 
 #### Table of contents
 
-1. [Structure](https://github.com/MartaAnthony/reading-notes/blob/master/class-01.md)  
-2. Extra Markup
-3. HTML5 Layout
-4. Process & Design
+1. Introductory HTML and JavaScript (https://github.com/MartaAnthony/reading-notes/blob/master/class-01.md)  
+2. HTML Text, CSS Introduction, and Basic JavaScript Instructions
+3. HTML Lists, CSS Boxes, JS Control Flow
+4. HTML links, CSS Layout, JS Functions
 5. The ABC of Programming
-6. Text
-7. Introducing CSS
-8. Basic JavaScript Instructions
-9. Decisions and Loops
-10. Lists
-11. Boxes
-12. Decisions and Loops 2
-13. Links
-14. Layout
-15. Functions, Methods, and Objects
+6. HTML Images, CSS Color & Text
+7. HTML Tables, JS Construtor Functions
+8. Forms and Events
+9. More CSS Layouts
+10. JS Debugging
+11. Docs for the HTML
+12. Local Storage
+13. CSS Transforms, Transitions, and Animations
+14. What Google learned about teams
+15. Project
 
 :books:
