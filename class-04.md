@@ -7,7 +7,7 @@
 **Absolute URLS** - starts with a domain name   
 **Relative URLs** - domain doesn’t need to be specified; link to other pages of the same site  
 
-**Directories** - folders on a website with code for different pages 
+**Directories** - folders on a website with code for different pages    
 **Root folder** - top-level folder
 
 `Index.html` - main homepage of a site
