@@ -8,7 +8,7 @@
 3. [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)   
 4. [HTML links, CSS Layout, JS Functions](class-04.md)   
 5. [HTML IMages, CSS Color & Text](class-05.md) 
-6. [JS Objecr literals; the DOM](class-06.md)
+6. [JS Object literals; the DOM](class-06.md)
 7. HTML Tables, JS Construtor Functions.   
 8. Forms and Events.   
 9. More CSS Layouts.   
