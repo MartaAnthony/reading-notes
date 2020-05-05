@@ -49,3 +49,39 @@ Arrays can store objects, and objects can store arrays.
 2. Document object model
 3. Global Javascript objects
 
+**Data types**. 
+- string
+- number
+- boolean
+- undefined
+- null
+Object
+JS treats every variable a an object, and so they can have methods and properties. (Undefined and null values don't have objects). Arrays and functions are objects too.
+
+Number
+
+`isNaN()` - checks if the value is not a number    
+`toFixed()` - rounds to specified number of decimal places (returns a string)    
+`toPrecision()` - rounds to total number of places (returns a string)   
+`toExponential()` - returns a string representing the number in exponential notation   
+
+Math object
+
+`Math.PI` - returns pi.  
+`Math.round` - rounds number to the nearest integer  
+`Math.sqrt(n)`- returns square rtoot of positive number
+`Math.ceil()` - rounds number to the nearest integer  
+`Math.floor()`- rounds number down to the nearest integer  
+`Math.random()`- generates a random number between 0(inclusive) and 1(not inclusive)
+
+
+**Domain modeling** - process of creating a conceptual model in code for a specific problem.
+
+**Object-oriented programming** 
+1. The `new` keyword instantiates (i.e. creates) an object.   
+2. The constructor function initializes properties inside that object using the `this` variable.   
+3. The object is stored in a variable for later use.    
+
+
+
+
