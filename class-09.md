@@ -100,6 +100,19 @@ Styling forms.
 
 ### JS events
 
+Scripts respond to events by updating the content of a web page.
+
+Different event types:
+- UI events
+- keyboard events
+- mouse events
+- focus events
+- form events
+- mutation events
+
+Events **fire** or **are raised** = events occurr.   
+Events **trigger** scripts.    
+ 
 
 
 
