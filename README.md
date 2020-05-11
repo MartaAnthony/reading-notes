@@ -13,7 +13,7 @@
 8. [Forms and Events](class-09.md)   
 9. [More CSS Layouts](class-08.md)   
 10. JS Debugging.   
-11. Docs for the HTML.   
+11. [Assorted Topics](class-11.md) 
 12. Local Storage.   
 13. CSS Transforms, Transitions, and Animations.   
 14. What Google learned about teams.   
