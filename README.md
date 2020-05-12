@@ -14,7 +14,7 @@
 9. [More CSS Layouts](class-08.md)   
 10. JS Debugging.   
 11. [Assorted Topics](class-11.md) 
-12. [Local Storage](class-12.md)
+12. [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 13. CSS Transforms, Transitions, and Animations.   
 14. What Google learned about teams.   
 15. Project. 
