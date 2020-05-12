@@ -14,7 +14,7 @@
 9. [More CSS Layouts](class-08.md)   
 10. JS Debugging.   
 11. [Assorted Topics](class-11.md) 
-12. Local Storage.   
+12. [Local Storage](class-12.md)
 13. CSS Transforms, Transitions, and Animations.   
 14. What Google learned about teams.   
 15. Project. 
