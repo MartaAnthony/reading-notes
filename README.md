@@ -12,7 +12,7 @@
 7. [HTML Tables, JS Construtor Functions](class-08.md)   
 8. [Forms and Events](class-09.md)   
 9. [More CSS Layouts](class-08.md)   
-10. JS Debugging.   
+10. [JS Debugging](class-10.md)  
 11. [Assorted Topics](class-11.md) 
 12. [Docs for the HTML <canvas> Element & Chart.js](class-12.md)
 13. [Local Storage](class-13.md)   
