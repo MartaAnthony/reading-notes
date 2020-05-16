@@ -16,7 +16,7 @@ To find the source of an error, it helps to understand in what order scripts are
 **Error objects**    
 `SyntaxError` - incorrect use of the rules of the language.    
 `ReferenceError` - caused by a variable that is not declared or is out of scope.    
-`EvalError` - incorrect use of aval() function.   
+`EvalError` - incorrect use of eval() function.   
 `URIError` - incorrect use of URI function.   
 `TypeError` - trying to use an object  or method that does not exist.   
 `RangeError` - if you call a function using numbers outside of its accept range.    
