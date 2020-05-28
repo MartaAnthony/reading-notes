@@ -1,4 +1,7 @@
-## Code 201 Reading Notes
+# Reading Notes 
+* My reading and class notes from Code Fellows software development bootcamp
+
+## Code 201 - Foundations of Software Development 
 *Notes from daily reading of Jon Duckett's books: "HTML & CSS" and "JavaScript & jQuery".*
 
 #### Table of contents
@@ -20,3 +23,7 @@
 15. [What Google learned about teams](class-15.md)
 
 :books:
+
+## Code 301 - Intermediate Software Development
+
+
