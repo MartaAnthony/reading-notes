@@ -1,5 +1,5 @@
 # Reading Notes 
-*My reading and class notes from Code Fellows software development bootcamp
+*My reading and class notes from Code Fellows software development bootcamp*
 
 ## Code 201 - Foundations of Software Development 
 *Notes from daily reading of Jon Duckett's books: "HTML & CSS" and "JavaScript & jQuery".*
