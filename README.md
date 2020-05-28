@@ -26,6 +26,6 @@
 
 ## Code 301 - Intermediate Software Development
 
-1. [Responsive Web Design](301class00.md)
+1. [Responsive Web Design](301-class00.md)
 
 
