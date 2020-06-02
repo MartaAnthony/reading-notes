@@ -27,6 +27,6 @@
 ## Code 301 - Intermediate Software Development
 
 1. [Responsive Web Design](301-class00.md)
-2. [jQuery, EVents, and the DOM](301-class01.md)
+2. [jQuery, Events, and the DOM](301-class01.md)
 
 
