@@ -29,5 +29,5 @@
 1. [Responsive Web Design](301-class00.md)
 2. [jQuery, Events, and the DOM](301-class01.md)
 3. [Reasons for pair programming](301-class01a.md)
-
+4. [Mustache and Flexbox](301-class02.md)
 
