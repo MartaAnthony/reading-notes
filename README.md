@@ -30,4 +30,5 @@
 2. [jQuery, Events, and the DOM](301-class01.md)
 3. [Reasons for pair programming](301-class01a.md)
 4. [Mustache and Flexbox](301-class02.md)
+5. [Node.js](301-class05.md)
 
