@@ -31,5 +31,5 @@
 3. [Reasons for pair programming](301-class01a.md)
 4. [Mustache and Flexbox](301-class02.md)
 5. [Node.js](301-class05.md)
-6. APIs continued(301-class06.md)
+6. [APIs continued](301-class06.md)
 
