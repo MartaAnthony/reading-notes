@@ -33,4 +33,5 @@
 5. [Node.js](301-class05.md)
 6. [APIs continued](301-class06.md)
 7. [SQL](301-class07.md)
+8. [Functional Programming](301-class08.md)
 
