@@ -34,5 +34,10 @@
 6. [APIs continued](301-class06.md)
 7. [SQL](301-class07.md)
 8. [Functional Programming](301-class08.md)
-9. [Call Stack](301-class09.md)
+9. [Call Stack](301-class09.md).
+11. [EJS](301-class11.md)
+12. Components
+13. Update/Delete
+14. DB Normalization
+15. Diversity and Inclusion
 
