@@ -37,7 +37,7 @@
 9. [Call Stack](301-class09.md).
 11. [EJS](301-class11.md)
 12. [Components](301-class12.md)
-13. Update/Delete
+13. [Update/Delete](301-class13.md)
 14. DB Normalization
 15. Diversity and Inclusion
 
