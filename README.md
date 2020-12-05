@@ -42,6 +42,6 @@
 15. [Diversity and Inclusion](301-class15.md)
 
 ## Code 401 - Advanced Software Development
-*notes from Python class
+*notes from Python class*
 
 
