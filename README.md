@@ -41,6 +41,8 @@
 14. [DB Normalization](301-class14.md)
 15. [Diversity and Inclusion](301-class15.md)
 
+:books:
+
 ## Code 401 - Advanced Software Development
 *notes from Python class*
 
