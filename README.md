@@ -46,7 +46,10 @@
 ## Code 401 - Advanced Software Development
 *notes from Python class*
 1. [Big O notation](401-class01.md)
-2. [TDD and Recursion]
+2. [TDD and Recursion](401-reading02.md)
+3. [Files and Exceptions] 
+
+
 
 
 
